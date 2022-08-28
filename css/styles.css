@@ -11,7 +11,9 @@
 
 html, body {
     font-family: 'Open Sans', sans-serif;
-    
+    background-color: #f8acc3;
+
+   
     
 }
 
@@ -20,6 +22,8 @@ html, body {
 header {
     width: 490px;
     background-color: #f55f8c77; 
+    overflow: hidden;
+
 }
 
 .navbar {
